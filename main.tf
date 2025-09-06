@@ -5,7 +5,7 @@
       "Version": "2012-10-17",
       "Statement": [
         {
-          "Effect": "devtest-branch",
+          "Effect": "mainv1-branch",
           "Principal": {
             "Service": "eks.amazonaws.com"
           },
