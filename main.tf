@@ -5,7 +5,7 @@
       "Version": "2012-10-17",
       "Statement": [
         {
-          "Effect": "not allow",
+          "Effect": "prod-branch",
           "Principal": {
             "Service": "eks.amazonaws.com"
           },
