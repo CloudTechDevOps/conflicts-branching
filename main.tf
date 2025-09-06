@@ -5,7 +5,7 @@
       "Version": "2012-10-17",
       "Statement": [
         {
-          "Effect": "deny",
+          "Effect": "not allow",
           "Principal": {
             "Service": "eks.amazonaws.com"
           },
